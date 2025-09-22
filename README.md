@@ -4,7 +4,7 @@ Material BIOINFO 573
 
 ## Identifying Information
 
-**Programmer:** Venkatesh Pramod Joshi 
+**Programmer:** Venkatesh Pramod Joshi  
 **Language:** Bash Shell Script  
 **Version:** 1.0.0  
 **Date Submitted:** September 21, 2025  
