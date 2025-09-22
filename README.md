@@ -109,7 +109,7 @@ When the script completes successfully, the following files will be created in t
 ### Downloaded Data Files
 | File Pattern | Typical Size | Count | Description |
 |--------------|--------------|-------|-------------|
-| `chr1_*.fa` | 50-500 MB each | 10-20 files | Uncompressed FASTA files containing chromosome 1 secondary assembly sequences |
+| `chr1_*.fa` | 50-500 KB each | 10-20 files | Uncompressed FASTA files containing chromosome 1 secondary assembly sequences |
 
 ### Contents of data_summary.txt
 
@@ -162,10 +162,6 @@ bash --version
 # Check if required tools are available
 which curl wget gunzip ls wc head grep mkdir
 ```
-
-## License
-
-This script is provided for educational and research purposes. Data downloaded from UCSC Genome Browser is subject to UCSC's terms of service and usage policies.
 
 ## Support
 
