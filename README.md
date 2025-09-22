@@ -94,7 +94,7 @@ The script requires no user input and runs completely automatically. It will:
 4. Decompress all downloaded files
 5. Generate a comprehensive analysis report
 
-**Estimated Runtime:** 15-35 minutes (depending on internet speed)  
+**Estimated Runtime:** 2-5 minutes (depending on internet speed)  
 **Required Disk Space:** 3-6 GB free space
 
 ## Output Files Created
