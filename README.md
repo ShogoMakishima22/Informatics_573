@@ -38,6 +38,7 @@ The following software must be installed on your system before running this scri
 ### Download Tools (at least one required)
 - **curl** (recommended) - For downloading files from web servers
 - **wget** (alternative) - For downloading files from web servers
+- **cygwin** (for windows and linux only)
 
 ### System Compatibility
 - **macOS:** All required tools are pre-installed
