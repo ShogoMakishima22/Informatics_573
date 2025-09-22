@@ -1,0 +1,356 @@
+==================================================
+CHROMOSOME 1 SECONDARY ASSEMBLIES ANALYSIS SUMMARY
+Generated on: Sun Sep 21 21:39:22 EDT 2025
+Working directory: /Users/venki/Informatics_573
+==================================================
+
+DETAILED FILE INFORMATION:
+==========================
+
+-rw-r--r--  1 venki  staff  186109 21 Sep 21:39 chr1_GL383518v1_alt.fa
+-rw-r--r--  1 venki  staff  112495 21 Sep 21:39 chr1_GL383519v1_alt.fa
+-rw-r--r--  1 venki  staff  373933 21 Sep 21:39 chr1_GL383520v2_alt.fa
+-rw-r--r--  1 venki  staff  178581 21 Sep 21:39 chr1_KI270706v1_random.fa
+-rw-r--r--  1 venki  staff   32697 21 Sep 21:39 chr1_KI270707v1_random.fa
+-rw-r--r--  1 venki  staff  130260 21 Sep 21:39 chr1_KI270708v1_random.fa
+-rw-r--r--  1 venki  staff   68222 21 Sep 21:39 chr1_KI270709v1_random.fa
+-rw-r--r--  1 venki  staff   41004 21 Sep 21:39 chr1_KI270710v1_random.fa
+-rw-r--r--  1 venki  staff   43079 21 Sep 21:39 chr1_KI270711v1_random.fa
+-rw-r--r--  1 venki  staff  179588 21 Sep 21:39 chr1_KI270712v1_random.fa
+-rw-r--r--  1 venki  staff   41584 21 Sep 21:39 chr1_KI270713v1_random.fa
+-rw-r--r--  1 venki  staff   42576 21 Sep 21:39 chr1_KI270714v1_random.fa
+-rw-r--r--  1 venki  staff  434135 21 Sep 21:39 chr1_KI270759v1_alt.fa
+-rw-r--r--  1 venki  staff  111740 21 Sep 21:39 chr1_KI270760v1_alt.fa
+-rw-r--r--  1 venki  staff  169172 21 Sep 21:39 chr1_KI270761v1_alt.fa
+-rw-r--r--  1 venki  staff  361554 21 Sep 21:39 chr1_KI270762v1_alt.fa
+-rw-r--r--  1 venki  staff  929913 21 Sep 21:39 chr1_KI270763v1_alt.fa
+-rw-r--r--  1 venki  staff   51285 21 Sep 21:39 chr1_KI270764v1_alt.fa
+-rw-r--r--  1 venki  staff  189012 21 Sep 21:39 chr1_KI270765v1_alt.fa
+-rw-r--r--  1 venki  staff  261418 21 Sep 21:39 chr1_KI270766v1_alt.fa
+-rw-r--r--  1 venki  staff  165478 21 Sep 21:39 chr1_KI270892v1_alt.fa
+
+==================================================
+FIRST 10 LINES OF: chr1_GL383518v1_alt.fa
+==================================================
+>chr1_GL383518v1_alt
+ctataatcccagcttgttgggaggccaaggcaggaggatcacttgaagcc
+caggagtttgagacgagcctaagcaacatagcaagaccctatctctacaa
+TTATAAATATAGTATTTGTTAATATTTGgccaggcgtggtagtacatgcc
+tgtaggcccagctacttggggagaggaggcaggaggatcacttgagggcc
+gaagttctgggctgtagtgcactatgcaatcaggtgtccccaccacattg
+ggcataaatctggtgatttcctgggagaaggagaccaccaggttgcctta
+taaggggtaaactggcccacatcgaaaacagagtaggtcaacatttccat
+gctaatcagtaatgggatccagcctatgaataaccactgcactccagctc
+gggcaatacagcaagaccctgAAtttttttttttttttttttttgagaca
+
+==================================================
+FIRST 10 LINES OF: chr1_GL383519v1_alt.fa
+==================================================
+>chr1_GL383519v1_alt
+CATCCCTCGATCCCAGGAGCCTAGCCGCACACTCTGCTCCCAGAACTTGG
+AACCCACACAGGCCTCTGAGGCAAAGAGCATGGTGTTGGGGAACAGGTGG
+TGTGTCTCCCTTAGGGTGGCTTTGGCTGGAGCCAGAAAGTCCAGGTACCA
+ATGTACAGCAATACCATGAACATACTTAGCTGCTTCTGGGTCTGTCAGTA
+CCTGCAAAGGAAGAACAAGTCACCCTGGACCCTGCCCACAGGCTTCTGGA
+ACTTCTAGTTCCTCTTGTAGGAATCCTGAATTAGGTGGTGGGAAGAATGC
+AACTACAGAGGTTTTGGGAGGGAttttttgtttttgtttttgagacaggg
+tctccctctgtcacacaggctggagtacagtggcacaatcatagctcact
+gcagcctgaaattctaggctcaactaaacctcccgccttagcctccagaa
+
+==================================================
+FIRST 10 LINES OF: chr1_GL383520v2_alt.fa
+==================================================
+>chr1_GL383520v2_alt
+CATGAAGGAGTAAGGTGTGTAGTAAATAAATCATAGACTGTTAATTCTGA
+GGGTAAACAACTTTTACATAAACTGATCATTTGTTTAAAAAGTCCAACTC
+AAGAGTAGTTCATTGCTTTTCAATATTTTCACTGATCAGTAACAAAATTA
+TCTGTGGCATAATCAGTAATAATTACTGATGGACCAAAGACCACCCACCC
+AATGAATCTTATTATCTCAAATATTTTGGCAGTTTCATTCTCAGTGATTT
+TATGATTTCTTGGAATTTTTTCCTTCAAGTTACAAATGTGTTTTGTTTCC
+TTCTATTTTCAATTTTTATTAATTTTGGTATAGAACATTAATTTCCATAT
+AAAAATGTAGAATTTTTCTGAATTCCACAGTTAATTTCTCAGGAGGAAGG
+AAACTGTTAACATAAGGTTAACCAATAATCATTTCTACACCTGACAAACT
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270706v1_random.fa
+==================================================
+>chr1_KI270706v1_random
+GAATTCAGCTGAGAAGAACAGGCAAGGACTTAGGAAATATTCCTTATTTG
+AAGGGGCCTGAAAGTGTGGTCTGGGGTACAGCAGTGACCTGTCATACTTG
+AGAGGATTAAAATACTCTCCAAACACAGTCCCATTCCTTCAACCTTAGCT
+CGTTTTTTCCAGCGTCTGAGATATATTAAACCTAGTCCATCCCCAAATTT
+AGCATTAGATTGCGAAGTTCTATTGATTGTATTTGATTTGTAATTTAAGA
+TTTTCTCCCCCTACGTAATTTTGTTAAAAACACAGAAGTGAATTCTGTTC
+ACTTAGGtgtaacagttaatacttgctgtttaaggaactaattaaacctt
+actggcttataaaaaacaaccaccattttattggtttgaagttctacgga
+tctgcattttggtgtggtggattcagctgggtagttgatatatgtgtgtt
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270707v1_random.fa
+==================================================
+>chr1_KI270707v1_random
+AGGGGTCTGCTTAGAGAGGGTCTCATTAGTGGGGTCTAGTAGTGGGGTTT
+TGGTGAGTGGGGACCTATTGGCTGCCAGTTGTTTGGTGTCTGGTCAGTGC
+AAACCTGGGCTGTGGGGCTTGATCAGTGGAGACCTGGTCAGCTGGGGCTT
+AGTGCTGGCCTGGTCAGCATGGGCTGGGGCACTGGTGACCAGGTCAAGGG
+GTGCTATTCAGTGGAGGAGTGGGCACATGGGACCTAGTCAGCAGACCCTG
+GTGGGCGTGTcctcatcagtgaggtccttgtcagtggggccctggtcagg
+gcagccttgtcagcgggacctaatctgtagcgtcctggtcagagaggact
+tggtcagtgGTGACTTTTGCAGTACTAGTCTACAGGGTGACCTGGTCAGC
+GGGGATCTCAGCATTTGGTGCCAGTTCAGTGGGGTCTACTCACTAGGGTC
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270708v1_random.fa
+==================================================
+>chr1_KI270708v1_random
+gatcgagactatcctggctaacacggtgaaaccccgtctctactaaaaat
+acaaaaattagccgggcatggcggcgggagcctgtagtaccagctactcc
+agatgctgaggcaggataatggcgtgaacccgggaggcggagcttgcagt
+gagccgagatcccgccactgcactccagcctgggtgacaggaccagactc
+cgtctcaaaaaaagaaaaaaaaaaaaaaaagaaaaGCAAAAatagtaggc
+ttaaatccaaacttttcaataattatttcaaatgtaatttaaatactcca
+aataaaacacagattgtccaactggctaataaaagtacctataagagatg
+catgccaaatattatggtatagataatttgagagtaaaataatttccaag
+tataccaaggaaacaacaagcaaaataaaccttatgtggctatattaata
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270709v1_random.fa
+==================================================
+>chr1_KI270709v1_random
+GAATTCATTCGATGACGATTCCATTCAATTCCGTTCAATGATTCCATTAG
+ATTCCATTTGATGATGATTCCATTCGATTCCATTTGATGATGATTCCATG
+CGATTCCATTAGATGATGACTCCTTTCATTTCCATTCAATGAGGATTCCA
+TTCGGTTCCATTTGATGATGATTCCTTTGAATTCCGTTTGATGACAATTC
+CATTCAATACCAATTGATGATGGTTATTTTTGATTCCATTTGATGATGAT
+TACTTTCGATTCCATTTGATCATGATTCCATTTGATTCCACTCGATGATT
+CCATTCAATGATGATTCCATTCGAGTTCATTGACTATTCCATTCCATTTC
+AATCGATGATTCCTTTAAAGTCCATTCGATGATTCTATTCGATTGCATTC
+GATTATTCCATTCGATTGCATTCGATAATTCCATTCGATTCAATTTGAGG
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270710v1_random.fa
+==================================================
+>chr1_KI270710v1_random
+aaactgtgcagcctctatggaaaacagtaccgtggttcctcaaaaaaatt
+aagaaactagaactaccatatgatctagcaatccacttcaggttatttat
+ctgaaagaattgagattgggatgattctcaggctcattgcagcattattt
+acactaatcaaaatgtggaaatgaggttaatgtctattggcagatgaata
+gataaagaaaatgtggtatattcatacaacggaatattattcagctttaa
+aacaagaaagcccggcaatatgcaacatggatgaacgtagaggacattaa
+tgctaagtaaagtaaatcagtcacagaaggacaaactgtatgattccact
+tgtataaggtatctaagatagccaaattcattagaatcacagattagaat
+ggtgatagcTCTTTAAGTTGAAATCAATGTTGCATTCCTGGGTTTTGTAg
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270711v1_random.fa
+==================================================
+>chr1_KI270711v1_random
+tgtgtatgtgtatgtgtatgtatgtgtatgtgtatgtgtatatgtatatg
+tatatgtaGTCCTCAGGTTGTATTCCTTAAATATATATAATATATGTAAT
+TCCTTAAATATATAATTTTAATACAAAATTTTTAAAAGATTCCTTTCATA
+AACATTTACAATAACACCAAGAAATATAAACTACATAGCAAAGATGTGAA
+AGCCAGCCAGGCGCAGCTTCAaatcctagcgcttaggaaggctgtggcag
+gagggtcgcttgagctcagaagcttgaaactagcttaggcaacatagtga
+gacctcatctctactgaaaatcagaaaaattatccggctgtggtggtgtg
+agcctgtagtcccaggtactcagtggatgaggccctaggatgtcatcggc
+ctgagaattccatgctgcagtgagctgtgtgatcttgccactgtactcca
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270712v1_random.fa
+==================================================
+>chr1_KI270712v1_random
+GAATTCTCAGAACTTTCAAAACACAAATCTTCATCCGCAGGGATGTTCAG
+GAGGGAGATGCCTGATGCAGCACAACTTTCTTTCAGAGGAGTATCTTGCA
+GAATACAGTATGAGATACAGAAAGGCTGCATTGAGTCTTTTTAATGGCCC
+AGGCCTTGGTGAGGGTGGGGTAGGAGCTCTCCAGAGAGCATCTAATGAGT
+AGGAACAGTTCAGGTGGCTTTTTTTTGTTTCCTTATTCGCAAAACTGTGT
+GTACACCACGAATGAAGCTGGTCTCCCTTATCCACGTCAAAACTAAACCT
+AAATTAATTGGCTAAATTGGGACTCAACACCTCCAGGAGCCACGCGGCAA
+AAAGCCCCAACACACTTTAAATTAGCTTACCTCATCATATTTGAGGAAAG
+CAAAACGCTTATGACCAGTATGCTGCTAATAGAAGTCTACAGATAATGCT
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270713v1_random.fa
+==================================================
+>chr1_KI270713v1_random
+GAGCATTCTCTAGTAGGAAGACCTTTTTAGAGTACAAAGGccagatcctg
+ccctcaaggggtttacaggccattagggagataaaacaacctagggcaag
+tgctggagatgcagcatcagccaactgctgaatacactcaaaaaaatgag
+agcccactggattgtctgggagcctcctaggaaagctgagtccaagctgg
+gctgggaggttggataaggctgtggccgggagaaaagggagaggcaaggc
+agagagaGAAAGGAATGGCAGAAATGTGTAAGGAAGAGACCTATTTGAAG
+AAGAGGAGAGAAAAGAAATTAACACTTGGAAGATAGGTTTGGGTCTGTCT
+GTGGGAGCCTCGTTGCCCAGCTGCATTTATACCCCATCACTGGCACTGTG
+GGGAGTTTTGAGAGGAGAGTGAAATTAACAAAGTGGGGCATGGGAGGAGG
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270714v1_random.fa
+==================================================
+>chr1_KI270714v1_random
+CTaaacacaaaaagtttagctgggcatgatggtgcatgcctgtaatctga
+gctacttgggaggcggagacaggagaatcgcttgagtacctgggaggcag
+aggttgcagtgagctgagatcacacaattgcactccagactgggcaacga
+gagtgaaactccatccccccaaaaacaaataaataaaaataaaagaatat
+caagcagtcaaagaagcaggaaaacatgacacatactgaagaatctaata
+atctggttgaaattgacacacacgttggaaatagaagaaaaggacgttac
+cgcaattagtataattgtattttaattaaatggagaggttgaagattttt
+taaatatcaaattctgtagataaaaactatgatttacagtgtgaaatgga
+agaaggcactggattaaatattgcagaagagaagattattaaactagaag
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270759v1_alt.fa
+==================================================
+>chr1_KI270759v1_alt
+gggaggccgaggcaggtggatcacgaggtcaggagatcgagaccatcctg
+gctaacatggtgaaaccccgtctctactaaaaatacaaaaaattagccgg
+gtgtggtggcgggcgcctgtagtcccagctactcgggagactgaggcaga
+agaatggcttgaacccggtaggcagagctttagtgagccgagatcgcacc
+actgcactccagcctgggtgacagagcgagacgactcctcaaaaaaaaaa
+aaaaaaaaaaagaaaagaaaatgtgaaacgatatagcccctgtggaagag
+aacttggcactttctcagagagttaaacacaatgttatcatatgacccaa
+caattctacccttgttatgaaaaaacatgtatccacaaaaccttgtacat
+gaatgtttatagcaacattattcataatagcccccaaatagaaacaaccc
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270760v1_alt.fa
+==================================================
+>chr1_KI270760v1_alt
+ccagccagaataccacatgcatttagctgttctgtctccttaggctcctc
+ttgactgtaacagtttctttgatcaccttgacagttttgaggactgcttg
+tcaagtacatagttggatggccctcttggagtttttctgatgtttttctc
+atcagttagactggaggctaggtttgaaggaagaagatcacggatgtaaa
+gttccactcacatcatatcaaggctacagactatcaacatgattgatgat
+tattgatgctgaccttagtctcctggctgaagtcatgtttctcaggtttc
+tccactgtaaagttactcttttgctcctcttttccatactgtagtctctg
+gaaggaagtcattatgagtagtccacatttaaggagtggggagttatgct
+ccatcgttgaggggaagagtatctacataaattattgggaattcttcttt
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270761v1_alt.fa
+==================================================
+>chr1_KI270761v1_alt
+CACTGTGAGTCCAACATGGTTCTCCAAACTTACACATTATCTCATCAACC
+TACACAGTGGCACTTTGTTAGAATAATCATCTTTAGCATGTATATGAGAA
+ACAGGAGGCAATAGGAATAAATTTGTTAGAAGTTGAATAAAACCAAAATT
+TAATTTTACTCCAAATCTCCTTCTTTAGAGAATGCAATTTATTGGTTACA
+TCCTGAAatatatatatatacacacacatcttatatatgcaaaatattat
+gcataacattacatatataactatattgcatatgtttatatacatattta
+catactctatatttacatatgtaatatgtatatgtagatatatgtaatat
+ttatgtatttaagtacttacatatataaatatgtgcaaatacatattagg
+tattacatatataggatgtatatatattatatCACAGAATGAAACCAATA
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270762v1_alt.fa
+==================================================
+>chr1_KI270762v1_alt
+GTACTGGAGGCCTGGACGGGCCTCACTCCATTCTTAGGGAGCGGCTGCTC
+CTGGTTCCCAACCACAAGTCACATCACTGCTGCCCCGGAAGGCACCTGGG
+GCCTCCAGAATGCTCGTTTCGTCAAACTGTTGTACGTGGCTCCTTTGCTG
+GCGCGGGGAAAGGGCCGTGGGCTTGGGCCCTGGAACGCATCCCAGGATCA
+GTGGCTCTGCAGGCTCCAGGCCCCACCAGCTGCTCTGAGGAGGCTCAGAT
+GGGTCTGGGAGTCCTGGTCGGAGCTGTAGCAGCTTCACATCCCCCTGGAC
+GGAGGAAAATGCAGATTCAGCACCCCCACCCCCCGCCCCCCACCACCCAG
+AGGTTGGAGCTATTTCAGTAGAAATACATGTTTTAAACTGGGGCGTCTgg
+ccagccacggtggctcatgcctgtaatcccagcactttgggaggctgagg
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270763v1_alt.fa
+==================================================
+>chr1_KI270763v1_alt
+ccaggctggagtgtagtggtggcactatcacagctcactgcagcctcgat
+ctcgtaggctcaagggatcctcctgcctcagcctctcatgtagctgggac
+ctgactagctggccagccatatcccgctaatatttatttagttagttagt
+tagttagttagttagttagttagttaggaagagacaggtctccccatgtt
+ggccaggctggtctcaaactcctgagatcaaatgatcctctcacctcatc
+ctcacaaagtgctgggattacaggccagagccacagcaactggccTTGTT
+TAGTTTCAGTGAATAAAATTGCCTTTTGAGGGAGCTACAGAGGCAATATA
+GCAGCTTGGAATCCAGGAAGCTTCCTTGGTCTTGTGTTTCTAAGGGTCCC
+AGGCATATTATAAGCAACTGCTCCTGATGGAGGCGCtagtgtatgaagag
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270764v1_alt.fa
+==================================================
+>chr1_KI270764v1_alt
+CAgagtgagtgagtgagtgagtgagAGTGTAAACAGGTGACTCCAGCCCA
+GTGTGTTCAGTGATGGAGGGAGAAGGGCAAGGAAAACAAATGGTGAGTGA
+GAGGGCCCAGCTTGCCATGCCTGAGGGAACTGCAGACTGGGGCTGCTATG
+CCTGTCCATTTGATATGAAACACTTCCCTCTTGATAGACTTCCAAGAGCA
+AATGCTTTCTGTAGAGAAGAACATGCACCCAACAGATGGATGTTTCAGTG
+CCCATCAAACAGCCTTATTTTTAAACTCATAGACTAAGTTTGGCAAAGCT
+CTTTCTCTCTCTCCAGAGCTACCCTGTGAACCTGACTTTGATTCTCTTCC
+AGATCTGCCATGCCCTCCTCCTACGGGGTTTCCCCTTTTGCTGCACCTCT
+CTCTGAGAAACATTTCACTTCTCTTTGCTCAGTGCCGAGGAGTGAAAGAA
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270765v1_alt.fa
+==================================================
+>chr1_KI270765v1_alt
+CTGAACTCTCAATCACATTTAGCGAGACGCTTTTCTAAAGGAATCCTCTA
+AAGCTAAACATACATTAAATTAAGTAGAATGCATTATGATTTGCTGTGtt
+ttttttttttttattttttttgagacggaggttttttttttttttttttt
+ttttttggctctgttgcccaggctgaagtgcagtggctcgatctcgtctc
+actgcgacctccgcctcccatccgcctgcctcagcctcccaaagtgctag
+gattacaggcgtgagccaccgcgtccagcCTGCAGTGGTTTTCTTACTAC
+TTTTTACAATCAAATTGATTAAGGCATTGGTTGAATATGGTACACTGCAT
+CCATTTCAAGTTTGATGacatgtctactactccagaaggtcctcttgtgc
+cctttgcagtcagtcccctcgactccctgaccccagcaattaatgatgta
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270766v1_alt.fa
+==================================================
+>chr1_KI270766v1_alt
+GAATTCACTCCTGGTCCAATGAAGCCATTTCCTGGCATGGCCAAAGATCA
+GGAACGGATTCCTCTGGATCTGTCCATTAGGAGTGAGCAGGGTCTCAGTA
+TCTGGGGAGCAGTGAGGGCCCCTGAGAAGAGGGTAGGTTTCAGTGGCTCA
+TCATCACTGCCCACACAGAATGTTCCAGGCCCCAAGTGTGCATCCTTTGT
+GAATGAACCCAGTGAACAGGCATGGGAGAAATTAAGGAAGAAACAGATGA
+CTGAAAGGAAGCAAAAAATGAGTGAGAACTAATCAAAATGATCACATTTC
+AGTTTTGATGCCTTGATTTGCTGCAGCTGAACCTCAATCACAGATGACGT
+AGTACCTCTCATCAGTAACTAGAGATTTCTGATATATAAATGGCTAAAAC
+AGGTTGATCAATCATGGAAGACACCAGAAAGTTTCCATTCAGGTTCCATT
+
+==================================================
+FIRST 10 LINES OF: chr1_KI270892v1_alt.fa
+==================================================
+>chr1_KI270892v1_alt
+CACTGTGAGTCCAACATGGTTCTCCAAACTTACACATTATCTCATCAACC
+TACACAGTGGCACTTTGTTAGAATAATCATCTTTAGCATGTATATGAGAA
+ACAGGAGGCAATAGGAATAAATTTGTTAGAAGTTGAATAAAACCAAAATT
+TAATTTTACTCCAAATCTCCTTCTTTAGAGAATGCAATTTATTGGTTACA
+TCCTGAAatatatatatatacacacacatcttatatatgcaaaatattat
+gcataacattacatatataactatattgcatatgtttatatacatattta
+catactctatatttacatatgtaatatgtatatgtagatatatgtaatat
+ttatgtatttaagtacttacatatataaatatgtgcaaatacatattagg
+tattacatatataggatgtatatatattatatCACAGAATGAAACCAATA
+
+==================================================
+ASSEMBLY LINE COUNTS:
+==================================================
+
+Assembly: chr1_GL383518v1_alt.fa - Total lines:     3650
+Assembly: chr1_GL383519v1_alt.fa - Total lines:     2207
+Assembly: chr1_GL383520v2_alt.fa - Total lines:     7333
+Assembly: chr1_KI270706v1_random.fa - Total lines:     3503
+Assembly: chr1_KI270707v1_random.fa - Total lines:      642
+Assembly: chr1_KI270708v1_random.fa - Total lines:     2555
+Assembly: chr1_KI270709v1_random.fa - Total lines:     1339
+Assembly: chr1_KI270710v1_random.fa - Total lines:      805
+Assembly: chr1_KI270711v1_random.fa - Total lines:      846
+Assembly: chr1_KI270712v1_random.fa - Total lines:     3522
+Assembly: chr1_KI270713v1_random.fa - Total lines:      816
+Assembly: chr1_KI270714v1_random.fa - Total lines:      836
+Assembly: chr1_KI270759v1_alt.fa - Total lines:     8514
+Assembly: chr1_KI270760v1_alt.fa - Total lines:     2192
+Assembly: chr1_KI270761v1_alt.fa - Total lines:     3318
+Assembly: chr1_KI270762v1_alt.fa - Total lines:     7090
+Assembly: chr1_KI270763v1_alt.fa - Total lines:    18235
+Assembly: chr1_KI270764v1_alt.fa - Total lines:     1007
+Assembly: chr1_KI270765v1_alt.fa - Total lines:     3707
+Assembly: chr1_KI270766v1_alt.fa - Total lines:     5127
+Assembly: chr1_KI270892v1_alt.fa - Total lines:     3246
+
+==================================================
+SUMMARY COMPLETE
+Total assemblies processed: 21
+Summary generated on: Sun Sep 21 21:39:22 EDT 2025
+==================================================
