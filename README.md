@@ -1,5 +1,5 @@
-# Informatics_573
-Material BIOINFO 573
+# Informatics_573_Assignment_!
+Assignment BIOINFO 573
 # Chromosome 1 Secondary Assemblies Downloader
 
 ## Identifying Information
