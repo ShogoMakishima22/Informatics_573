@@ -1,4 +1,4 @@
-# Informatics_573_Assignment_!
+# Informatics_573_Assignment_1
 Assignment BIOINFO 573
 # Chromosome 1 Secondary Assemblies Downloader
 
