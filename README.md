@@ -6,7 +6,7 @@ Material BIOINFO 573
 
 **Programmer:** Venkatesh Pramod Joshi  
 **Language:** Bash Shell Script  
-**Version:** 1.0.0  
+**Version:** 3.2.57  
 **Date Submitted:** September 21, 2025  
 **Script File:** chromosome_downloader.sh
 
@@ -174,4 +174,3 @@ For questions or issues:
 ---
 
 **Last Updated:** September 21, 2025  
-**Version:** 1.0.0
